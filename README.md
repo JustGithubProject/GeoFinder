@@ -25,6 +25,4 @@ The API documentation can be found at `http://localhost:8000/docs`.
 
 Contributions are always welcome. If you have any ideas, bug reports, or feature requests, please create an issue on the GitHub repository.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
