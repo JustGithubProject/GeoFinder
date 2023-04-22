@@ -1,6 +1,4 @@
-# GeoFinder Microservice
-
-This microservice is built using FastAPI and provides the latitude and longitude coordinates of a city based on user input.
+# GeoFinder 
 
 ## Installation
 
